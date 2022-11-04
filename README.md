@@ -1,1 +1,1 @@
-[![Build Status](https://img.shields.io/travis/karma-runner/karma/master.svg?style=flat-square)]
+[![Build Status](https://app.travis-ci.com/raniaw/jasmine-testing-ci.svg?branch=master)](https://app.travis-ci.com/raniaw/jasmine-testing-ci)
